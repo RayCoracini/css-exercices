@@ -1,0 +1,117 @@
+html {
+  background: black;
+}
+h1,
+h2 {
+  color: white;
+  padding: 15px 25px;
+  background-color: black;
+  width: 20%;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.exercicio-1 {
+  background: greenyellow;
+  padding: 15px;
+}
+
+div {
+  background: red;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.exercicio-2 {
+  background: white;
+  padding: 15px;
+}
+
+.impares {
+  background: pink;
+  color: black;
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+
+.impares.tres {
+  font-size: 36px;
+}
+
+.pares#dois {
+  background: none;
+  color: blue;
+  font-size: 42px;
+  text-align: start;
+}
+
+.pares#quatro {
+  background: lightgreen;
+  color: black;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: start;
+}
+
+.exercicio-3 {
+  background: lightblue;
+  padding: 15px;
+}
+
+.btn {
+  font-size: 28px;
+  font-family:
+    Helvetica,
+    Times New Roman,
+    sans-serif;
+}
+
+.btn#black {
+  background: black;
+  color: white;
+}
+
+.btn#yellow {
+  background: yellow;
+}
+
+.exercicio-4 {
+  background: lightcyan;
+  padding: 15px;
+}
+
+.linha-1,
+.linha-2 {
+  background: none;
+  text-align: start;
+}
+
+.mulher {
+  width: 300px;
+}
+
+.homem {
+  width: 200px;
+  height: 400px;
+}
+
+.exercicio-5 {
+  background: white;
+  padding: 15px;
+}
+
+.exercicio-5 div p {
+  background: yellow;
+  color: red;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.exercicio-5 p {
+  background: none;
+  color: black;
+}
